@@ -61,6 +61,11 @@ ____
 - *"git merge <название ветки>"* - слияние веток
 - *"git checkout <название ветки>"* - переход на нужную ветку
 
+## Полезные ссылки:
+* [Работа с MarkDown] https://lifehacker.ru/chto-takoe-markdown/
+* [Инструкция Git] http://git­scm.com/downloads 
+
+
 ---
 
 # Seminar 2
