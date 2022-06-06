@@ -66,7 +66,7 @@ ____
 * [Инструкция Git] http://git­scm.com/downloads 
 
 
----
+---end
 
 # Seminar 2
 
